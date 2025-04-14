@@ -1,0 +1,3 @@
+#publishme I nostri sono il pesce che agita la superficie del fiume della causalità. Del regno dei rapsodi ma non solo.  
+La nascita di Persephone, la morte di Gretel (rapsodo della boh superbia? Il vizio del rapsodo è utile per la cucitura ma anche come trigger di sicurezza per disinnescarlo i.e. il suo punto debole. A la Harry Potter, quel rituale ha dato poteri a Gillian)  
+Saranno i nostri a scrivere la loro storia o si faranno manipolare dai rapsodi che usano la loro sfiducia a loro favore per ribaltare le gerarchie dell'organizzazione? 

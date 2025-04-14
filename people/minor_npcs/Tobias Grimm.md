@@ -1,0 +1,1 @@
+apparso legato come un salame alla fine della [OneShot](Ep0%20-%20Delitto%20a%20Villa%20Giada.md)

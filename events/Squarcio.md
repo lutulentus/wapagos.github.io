@@ -1,0 +1,1 @@
+#publishme separa il continente nelle due nazioni [[Rostok]] e [[Askeland]] con in mezzo il [[canale]], la mascella e la maschera e la gola del drago -> tradurre mascella/maschera/gola per i nomi dei sub-contienti e del canale. ci nascono i [[Biechi blu]]

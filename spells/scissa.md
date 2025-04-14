@@ -1,0 +1,2 @@
+#publishme 
+la [[Rapsodia]] puo' cucere due anime in un corpo, quindi una persona diventa scissa. puo' essere una rapsodia con un grado maggiore di sinfonia a seconda che il carattere del [[Vessilli]] sia allineato o meno a quello della rapsodia.
