@@ -39,7 +39,7 @@ jobs:
           # Define excluded folders that should never be published
           EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
           
-          find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
+          find . -type f -exec grep -l "#publishme" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
             SKIP=0
             for folder in "${EXCLUSION[@]}"; do
@@ -57,7 +57,7 @@ jobs:
           done
           cp index.md .site_content/ || true
           cp -r .overrides .site_content/
-          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
+          echo "Files containing #publishme (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
 
       # Step 5: Preprocess Obsidian Features
       - name: Preprocess Obsidian Features
