@@ -69,4 +69,4 @@ jobs:
       # Step 6: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |
-          mkdocs gh-deploy --force --config-file mkdocs.yml
+          mkdocs gh-deploy --force --config-file mkwapagos.yml

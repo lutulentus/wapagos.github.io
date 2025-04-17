@@ -1,0 +1,8 @@
+# An example of the most basic config file we can use with `MKDocs`
+# Great place to start to see if this is working / what you need to fix
+# or customzie
+
+site_name: Wapagos' Wiki
+site_url: https://lutulentus.github.io/wapagos
+site_author: Antonio
+site_description: official lorekeeper for Wapagos' DnD campaign
